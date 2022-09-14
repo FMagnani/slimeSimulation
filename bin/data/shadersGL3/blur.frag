@@ -32,22 +32,6 @@ void main()
 
     texel0 = texture(tex0, texCoordVarying);
 
-//    float a = max(0, sum.a*0.1);
-
-/*
-    float threshold = decayRate*0.1;
-    if(sum.r < threshold){
-        outputColor = vec4(0,0,0, 1);
-    }else{
-        outputColor = sum;
-    }
-*/
-
-//    outputColor *= 0.1;
     outputColor = sum;
-/*
-    if(texCoordVarying.x == 0 && texCoordVarying.y == 0){
-        outputColor = vec4(255,255,255, 255);
-    }
-*/
+
 }
