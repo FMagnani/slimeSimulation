@@ -1,15 +1,35 @@
 # Agent-Based Slime Simulation
 The final result is not yet a perfect slime, but it was the original inspiration for this project. In any case, there are some slimey behaviours performed by the simulation so the name has been kept. Other patterns are stripey, similar to the cover of Unknown Pleasures. Some webby stuff can emerge, similar to a mycelium network :pray:. Also, I found blobby behaviour, both in the form of a big chill ball of light or many small vortices of spermatozoa.  
-  
-**Slimey**
 
-**Stripey**
+- **Slimey Slime**  
+Actually the most rare kind...  
+![config](./images/slimeySlime.png)  
 
-**Webby**
+- **Stripey Slimes**  
+It seems a desert, doesn't it?  
+![config](./images/stripeySlime1.png)  
+The one resembling Unkown Pleasures  
+![config](./images/stripeySlime2.png)  
 
-**Big Blobby**
+- **Webby Slimes**  
+Is it the Wood Wide Web? :pray:  
+![config](./images/webbySlime4.png)  
+A smart Mycelium mind :pray:  
+![config](./images/webbySlime5.png)  
+This looks menacing...  
+![config](./images/webbySlime7.png)  
 
-**Lil Blobby**
+- **Big Blobby Slimes**  
+Rasengan vibes  
+![config](./images/blobbySlime1.png)  
+
+- **Lil Blobby Slimes**  
+Heavy Weather here... :snail: :snail: :snail:  
+![config](./images/blobbySlime2.png)  
+
+- **Blobby Stripey Slimes**  
+Very elegant  
+![config](./images/blobbyStripeySlime.png)  
 
 
 ## Algorithm
